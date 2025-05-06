@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate frontend developer with a growing
 - **Frontend**: HTML, CSS, JavaScript, React 
 - **Backend (Familiar with)**: PHP (Beginner), MySQL (Beginner), REST APIs
 - **Tools**: Git, Visual Studio Code, Chrome DevTools
-- **Styling**: Tailwind CSS, PostCSS
+- **Styling**: Tailwind CSS, PostCSS, Sass (scss)
 
 ## 💼 Experience
 
