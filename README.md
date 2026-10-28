@@ -1,42 +1,24 @@
 # Hi, I'm Pavel
 
-I build desktop apps and web tools with **Rust, TypeScript and Python**.
+I build practical software with **AI agents** — desktop apps, web tools and data integrations.
+My interests are backend development, APIs and making data useful.
+
 Based in Tallinn, Estonia · English / Estonian / Russian.
 
-## Building [Ancient Lens](https://github.com/PavluntiyJ/ancient-lens)
+## Selected projects
 
-An independent, open-source **Dota 2 desktop companion for Windows and Linux**.
-Draft analysis, player statistics and a personal MMR journal in one app,
-without ads, telemetry or a required Ancient Lens account.
-
-[![Ancient Lens match screen with a ten-player table and draft analysis](https://raw.githubusercontent.com/PavluntiyJ/ancient-lens/main/docs/images/match-screen.png)](https://github.com/PavluntiyJ/ancient-lens)
-
-*Demo screenshot with invented players and statistics.*
-
-- **Match & draft:** a ten-player table, hero matchups, lane analysis and pick recommendations.
-- **Personal tools:** searchable player notes, match history and an interactive MMR chart. Notes, settings and the journal stay on your computer.
-- **Under the hood:** a Rust core, React/TypeScript UI, Dota Game State Integration, OpenDota and an optional local service for STRATZ.
-
-**Tauri 2 · Rust · React · TypeScript · MIT**
-
-Early prototype — build from source. Features vary by platform; draft recommendations require the STRATZ service.
-
-[Explore the code](https://github.com/PavluntiyJ/ancient-lens) ·
-[Build & setup](https://github.com/PavluntiyJ/ancient-lens/blob/main/docs/guide/install.md) ·
-[Architecture](https://github.com/PavluntiyJ/ancient-lens/blob/main/docs/dev/architecture.md) ·
-[Contribute](https://github.com/PavluntiyJ/ancient-lens/blob/main/CONTRIBUTING.md)
-
-## More projects
+**[Ancient Lens](https://github.com/PavluntiyJ/ancient-lens)** · [Docs](https://github.com/PavluntiyJ/ancient-lens/blob/main/docs/README.md)  
+Open-source Dota 2 companion for Windows and Linux: draft analysis, player statistics, notes and an MMR journal. No ads or telemetry.  
+*Tauri 2 · Rust · React · TypeScript — early prototype, build from source*
 
 **[EestiHub](https://github.com/PavluntiyJ/eestihub)** · [Live demo](https://eestihub.vercel.app)  
-Compare Estonia's four tax regimes in English, Estonian or Russian.  
+Compare Estonia's four tax regimes side by side, in English, Estonian or Russian.  
 *FastAPI · Next.js · PostgreSQL*
 
 **[The Feed](https://github.com/PavluntiyJ/NewsAggregator)** · [Live demo](https://news-aggregator-one-phi.vercel.app)  
-An offline-capable news reader with instant search and a command palette.
-Local fixtures make it possible to try every feature without an API key.  
+Offline-capable news reader with instant search, bookmarks and a command palette. Try it locally without an API key using built-in fixtures.  
 *Next.js · React · TypeScript · Playwright*
 
 **[Trace](https://github.com/PavluntiyJ/IP-Address-Tracker)** · [Live demo](https://ip-address-application.netlify.app/)  
-IP and domain geolocation on an interactive map, with API credentials kept out of the browser bundle.  
+Find an IP or domain's location, timezone and network provider on an interactive map. API credentials stay out of the browser bundle.  
 *React · TypeScript · Cloudflare Workers*
