@@ -1,7 +1,7 @@
 # Hi, I'm Pavel
 
 I build practical software with **AI agents** — desktop apps, web tools and data integrations.
-My interests are backend development, APIs and making data useful.
+I work across the full stack: interfaces, backend services, APIs and data.
 
 Based in Tallinn, Estonia · English / Estonian / Russian.
 
